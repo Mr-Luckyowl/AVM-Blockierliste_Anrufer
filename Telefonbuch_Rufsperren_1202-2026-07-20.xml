@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="258"><contact><category /><person><realName>0033782029697</realName></person><telephony
+nid="1"><number type="home" vanity="" prio="1" id="0">0033782029697</number></telephony><services /><setup><ringTone
+prefix="0" /></setup><mod_time>1779796604</mod_time><uniqueid>26</uniqueid></contact><contact><category>0</category><person><realName>00436604532083</realName></person><telephony
+nid="1"><number type="home" prio="1" id="0">00436604532083</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1784541630</mod_time><uniqueid>28</uniqueid></contact><contact><category /><person><realName>00436604532083 Crypto Betrug</realName></person><telephony
+nid="1"><number type="home" vanity="" prio="1" id="0">00436604532083</number></telephony><services /><setup><ringTone
+prefix="0" /></setup><mod_time>1784539144</mod_time><uniqueid>27</uniqueid></contact></phonebook>
+</phonebooks>
