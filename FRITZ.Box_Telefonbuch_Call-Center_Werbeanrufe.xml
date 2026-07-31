@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="1" name="Call-Center u.a. Sperren"><contact><category>0</category><person><realName>AdWords Call-Center</realName></person><telephony
+nid="6"><number type="work" prio="1" id="0">024075069309</number><number
+type="work" id="1">032222133640</number><number type="work" id="2">023274178594</number><number
+type="work" id="3">023274178899</number><number type="work" id="4">023274178579</number><number
+type="home" id="5">023128662352</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516621450</mod_time><uniqueid>141</uniqueid></contact><contact><category>0</category><person><realName>AdWords-Callcenter Anlagenanschluss</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">023274178</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1505308330</mod_time><uniqueid>156</uniqueid></contact><contact><category>0</category><person><realName>BoFrost</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">045138849928</number><number
+type="mobile" id="1">0436506940242</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517384000</mod_time><uniqueid>2212</uniqueid></contact><contact><category>0</category><person><realName>Call Center UK</realName></person><telephony
+nid="3"><number type="work" prio="1" id="0">00442039363412</number><number
+type="work" id="1">00442036959947</number><number type="work" id="2">0044203</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1535099384</mod_time><uniqueid>160</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040537998352</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1475828620</mod_time><uniqueid>104</uniqueid></contact><contact><category>0</category><person><realName>Call-center</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">042198964501</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1481365008</mod_time><uniqueid>113</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0043720103041</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1481365351</mod_time><uniqueid>114</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030138823537</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1485436766</mod_time><uniqueid>119</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="2"><number type="home" prio="1" id="0">05112794570</number><number
+type="mobile" id="1">020143716000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1492697819</mod_time><uniqueid>140</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="6"><number type="work" prio="1" id="0">068193070</number><number
+type="work" id="1">068193072958</number><number type="work" id="2">0631624060</number><number
+type="work" id="3">063162406100</number><number type="work" id="4">0341496292000</number><number
+type="work" id="5">03051654163</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1511267605</mod_time><uniqueid>105</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">0694585254</number><number
+type="work" id="1">0694694333</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517230554</mod_time><uniqueid>136</uniqueid></contact><contact><category>0</category><person><realName>Call-Center</realName></person><telephony
+nid="3"><number type="work" prio="1" id="0">043167070558</number><number
+type="work" id="1">043167070</number><number type="work" id="2">043167070376</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519811307</mod_time><uniqueid>112</uniqueid></contact><contact><category>0</category><person><realName>Call-Center Anlagenanschluss</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040539</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1481364872</mod_time><uniqueid>107</uniqueid></contact><contact><category>0</category><person><realName>Call-Center Brandenburg</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">03955691111</number><number
+type="work" id="1">0395379010</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1475828725</mod_time><uniqueid>102</uniqueid></contact><contact><category>0</category><person><realName>Call-Center DB</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">082347066499</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1496392631</mod_time><uniqueid>151</uniqueid></contact><contact><category>0</category><person><realName>Call-Center Energie</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030959980949</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1491834842</mod_time><uniqueid>139</uniqueid></contact><contact><category>0</category><person><realName>Call-Center Kapitalabsicherung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0304530520</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1495100702</mod_time><uniqueid>148</uniqueid></contact><contact><category>0</category><person><realName>callcenter</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">0690960055</number><number
+type="work" id="1">0694694333</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1511005446</mod_time><uniqueid>121</uniqueid></contact><contact><category>0</category><person><realName>CallCenter Krankenversicherung</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">030952248440</number><number
+type="home" id="1">03023066266</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1488903400</mod_time><uniqueid>109</uniqueid></contact><contact><category>0</category><person><realName>CC</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021194629797</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1486131362</mod_time><uniqueid>122</uniqueid></contact><contact><category>0</category><person><realName>Crypto</realName></person><telephony
+nid="3"><number type="work" prio="1" id="0">442039362790</number><number
+type="work" id="1">442039362808</number><number type="work" id="2">442039362</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1509886840</mod_time><uniqueid>158</uniqueid></contact><contact><category>0</category><person><realName>DBVZ</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02822</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1486148341</mod_time><uniqueid>123</uniqueid></contact><contact><category>0</category><person><realName>Dirk Kreuter Salesteam</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">023496290525</number><number
+type="home" id="1">023445934173</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521052138</mod_time><uniqueid>2218</uniqueid></contact><contact><category>0</category><person><realName>DRK CallCenter</realName></person><telephony
+nid="1"><number type="mobile" prio="1" id="0">015173085511</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1480338467</mod_time><uniqueid>111</uniqueid></contact><contact><category>0</category><person><realName>Energie Deutschland</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030959980087</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1495111057</mod_time><uniqueid>149</uniqueid></contact><contact><category>0</category><person><realName>Energie-Agenten</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02241265650</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1493205300</mod_time><uniqueid>144</uniqueid></contact><contact><category>0</category><person><realName>Geldanlagen</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">0041715880148</number><number
+type="work" id="1">00442038083768</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1535099351</mod_time><uniqueid>118</uniqueid></contact><contact><category>0</category><person><realName>Haustier-Frage</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">032214219001</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1520318826</mod_time><uniqueid>2217</uniqueid></contact><contact><category>0</category><person><realName>lästige Werbeanrufe</realName></person><telephony
+nid="9"><number type="work" prio="1" id="0">04412198733</number><number
+type="work" id="1">0405379</number><number type="work" id="2">068193072958</number><number
+type="work" id="3">077213171	</number><number type="work" id="4">07721507425</number><number
+type="work" id="5">00442071936823</number><number type="work" id="6">0041924922026</number><number
+type="work" id="7">074258436377</number><number type="work" id="8">06929917019</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516474024</mod_time><uniqueid>167</uniqueid></contact><contact><category>0</category><person><realName>lästige Werbeanrufe II</realName></person><telephony
+nid="8"><number type="work" prio="1" id="0">02654880025</number><number
+type="work" id="1">040228689957</number><number type="work" id="2">02654880025</number><number
+type="work" id="3">04919122466</number><number type="work" id="4">062118069450</number><number
+type="work" id="5">08233737158</number><number type="work" id="6">0900326690</number><number
+type="work" id="7">020145356415</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516903200</mod_time><uniqueid>168</uniqueid></contact><contact><category>0</category><person><realName>Medienagentur für Radiowerbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06959603092</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516702005</mod_time><uniqueid>169</uniqueid></contact><contact><category>0</category><person><realName>Meinungsforschung</realName></person><telephony
+nid="1"><number type="home" prio="1" id="0">06119996086</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1508747628</mod_time><uniqueid>157</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfrage</realName></person><telephony
+nid="3"><number type="work" prio="1" id="0">0891247114371</number><number
+type="work" id="1">03834231330</number><number type="work" id="2">08912471143</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1487616437</mod_time><uniqueid>126</uniqueid></contact><contact><category>0</category><person><realName>Metaplan Frankfurt (Sponsorengewinnung)</realName></person><telephony
+nid="3"><number type="work" prio="1" id="0">069505003227</number><number
+type="work" id="1">069505003229</number><number type="mobile" id="2">069505003</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518183719</mod_time><uniqueid>2213</uniqueid></contact><contact><category>0</category><person><realName>Microsoft Technical Service</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0645353423</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1489762087</mod_time><uniqueid>135</uniqueid></contact><contact><category>0</category><person><realName>O2-Geschäftskundenakquise</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020993900595</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1489753134</mod_time><uniqueid>134</uniqueid></contact><contact><category>0</category><person><realName>Purus Personaldienstleistungen</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">061198635545</number><number
+type="work" id="1">0611986350</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1512559837</mod_time><uniqueid>161</uniqueid></contact><contact><category>0</category><person><realName>regional.de = Google Business Eintrag</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">043167070390</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1491830266</mod_time><uniqueid>138</uniqueid></contact><contact><category>0</category><person><realName>Seminarhaus wg, Veranstaltungen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02233508585</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1534767085</mod_time><uniqueid>2225</uniqueid></contact><contact><category>0</category><person><realName>Sperrliste I von Bibo</realName></person><telephony
+nid="9"><number type="work" prio="1" id="0">03419950256</number><number
+type="work" id="1">0891436717529</number><number type="work" id="2">03044408044</number><number
+type="work" id="3">0012157178782</number><number type="work" id="4">0404191313808</number><number
+type="work" id="5">05115693423</number><number type="work" id="6">024075069309</number><number
+type="work" id="7">032222133640</number><number type="work" id="8">0041715880148</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516900308</mod_time><uniqueid>171</uniqueid></contact><contact><category>0</category><person><realName>Sperrliste II von Bibo</realName></person><telephony
+nid="9"><number type="work" prio="1" id="0">024075069308</number><number
+type="work" id="1">022039898905</number><number type="work" id="2">020124685800</number><number
+type="work" id="3">0454299810</number><number type="work" id="4">052417416281</number><number
+type="work" id="5">04021031816</number><number type="work" id="6">020194625114</number><number
+type="work" id="7">036552788549</number><number type="work" id="8">00376868589</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516900578</mod_time><uniqueid>172</uniqueid></contact><contact><category>0</category><person><realName>Sperrliste III von Bibo</realName></person><telephony
+nid="6"><number type="work" prio="1" id="0">0306539901</number><number
+type="work" id="1">023122611572</number><number type="work" id="2">0693339965182</number><number
+type="work" id="3">023199770892</number><number type="work" id="4">023199953665</number><number
+type="work" id="5">024075069453</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1516900734</mod_time><uniqueid>173</uniqueid></contact><contact><category>0</category><person><realName>Stromanbieter-Vertrieb</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">040537981188</number><number
+type="work" id="1">08951971918</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518082697</mod_time><uniqueid>106</uniqueid></contact><contact><category>0</category><person><realName>Telekom-Partner</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061269289394</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518444869</mod_time><uniqueid>2215</uniqueid></contact><contact><category>0</category><person><realName>Türkische Nummer</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0090712278662</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1481526475</mod_time><uniqueid>115</uniqueid></contact><contact><category>0</category><person><realName>unbekannt</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">3315893284</number><number
+type="work" id="1">34656737686</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518361281</mod_time><uniqueid>166</uniqueid></contact><contact><category>0</category><person><realName>ungültige Rufnummer</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">069357770101</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1486199942</mod_time><uniqueid>124</uniqueid></contact><contact><category>0</category><person><realName>Unity Media Drückerkolonne</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">020145356415</number><number
+type="home" id="1">020993911255</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517911510</mod_time><uniqueid>145</uniqueid></contact><contact><category>0</category><person><realName>Vermarkter Hotline</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06980087481</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518080319</mod_time><uniqueid>2214</uniqueid></contact><contact><category>0</category><person><realName>Vermarkter Hotline PKV</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0614614444</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1533301214</mod_time><uniqueid>2224</uniqueid></contact><contact><category>0</category><person><realName>VNR Verlag für die Deutsche Wirtschaft AG</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">03517957931</number><number
+type="work" id="1">035128565000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1494487330</mod_time><uniqueid>147</uniqueid></contact><contact><category>0</category><person><realName>Wamser Büro Service</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06213289155</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1488183825</mod_time><uniqueid>129</uniqueid></contact><contact><category>0</category><person><realName>Weine aus Südfrankreich</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0033556043990</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1489753092</mod_time><uniqueid>133</uniqueid></contact><contact><category>0</category><person><realName>Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0690960055</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1485514141</mod_time><uniqueid>120</uniqueid></contact><contact><category>0</category><person><realName>Werbung Bus &amp; Bahn</realName></person><telephony
+nid="2"><number type="work" prio="1" id="0">06241500210</number><number
+type="work" id="1">062415002160</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1493138035</mod_time><uniqueid>142</uniqueid></contact><contact><category>0</category><person><realName>Wörlein GmbH, Nürnberg (ping-Anrufe)</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0911586170</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1487957843</mod_time><uniqueid>128</uniqueid></contact></phonebook>
+</phonebooks>

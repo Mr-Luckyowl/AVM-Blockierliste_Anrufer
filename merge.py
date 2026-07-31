@@ -1,10 +1,13 @@
 import xml.etree.ElementTree as ET
 import os
-
+import pprint
 # List of your XML input files
 input_files = [
     "Block-Lists_scammers-AVM_and_other_ROUTERS-2026-07-20.xml",
     "Telefonbuch_Rufsperren_1202-2026-07-20.xml",
+    "FRITZ.Box_Telefonbuch_Call-Center_Werbeanrufe.xml",
+    "FRITZ.Box_Telefonbuch_Rufsperren_beautify.xml",
+    "FB_Telefonbuch_Spam_2025.xml",
     "Telefonbuch_Rufsperren_BlueBox_FRITZ.Box_17.06.25_1649.xml"
 ]
 
